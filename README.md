@@ -1,5 +1,6 @@
 # Project Name
 > Lending Club Case Study.
+>> EDA
 
 
 ## Table of Contents
@@ -16,7 +17,7 @@ We have been provided with complete loan data for all loans issued through the t
 
 ## Conclusions
 
-Based on the data following are the strong indicators that contribute for loan default.
+Based on our Exploratory Data Analysis on the dataset, the below are the strong indicators that contribute for loan default.
 
 1. 'purpose' of the loan 
     - loans procured for "small business" are more prone towards chargeoff/default
@@ -33,16 +34,17 @@ Based on the data following are the strong indicators that contribute for loan d
 
 
 ## Technologies Used
-- Pandas - version 0.24.2
-- Matplotlib - version 3.0.3
-- Seaborn - version 0.9.0
-- Numpy - version 1.16.2
+- Pandas - version 1.4.2
+- Numpy - version 1.21.5
+- Matplotlib - version 3.5.1
+- Seaborn - version 0.11.2
+- plotly - version: 5.6.0
 
 ## Acknowledgements
 - Upgrad Study Materials
 
 ## Contact
-Created by [@elcommselva & @rajaanr7] - feel free to contact me!
+Created by [@elcommselva & @rajaanr7] - feel free to contact us!
 
 
 <!-- Optional -->
